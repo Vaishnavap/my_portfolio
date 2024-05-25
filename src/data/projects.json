@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Mymess",
+    "imageSrc": "projects/logo.png",
+    "description": "This is a web app made to make the mess management in hostels easier",
+    "skills": ["React", "Express", "Node","MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vaishnavap/MyMess-RDBMS-Mini-Project.git"
+  },
+  {
+    "title": "BookWise",
+    "imageSrc": "projects/bookwise.png",
+    "description": "This is a and android app made to create a community for libraries and book lovers.",
+    "skills": ["Flutter", "Firebase", "Dart"],
+
+    "source": "https://github.com/Ambady1/BookWise.git"
+  }
+
+]
